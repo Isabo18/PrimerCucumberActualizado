@@ -1,0 +1,2 @@
+com/the/internet/herokuapp/automation/TestAuthentication.java
+ com.the.internet.herokuapp.automation.TestAuthentication
